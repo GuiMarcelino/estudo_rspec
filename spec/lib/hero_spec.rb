@@ -12,5 +12,4 @@ describe Hero do
     expect(hero.life).to be >= 1000
 
   end
-
 end
